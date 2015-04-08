@@ -1,0 +1,23 @@
+2015-04-03 14:32:46.426 [main] INFO  com.donglu.AppConfigrator	-己加载key title_width=600
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key sqlserver_ip=127.0.0.1
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key title_color=0 0 0
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key clean_delay=99999
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key header_sql=select headImage from CardUser where identifier = '工号00003'
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key title_height=100
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key title_family=宋体
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key title_y=10
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key title_x=30
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key title_sql=select '深圳市东陆高新实业有限公司'
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key sqlserver_database_password=1
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key header_y=150
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key sqlserver_database_username=sa
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key header_x=10
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key sqlserver_database_name=onecard
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key header_width=300
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key poll_interval=100
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key sqlserver_port=1433
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key title_size=30
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key header_height=500
+2015-04-03 14:32:46.441 [main] INFO  com.donglu.AppConfigrator	-己加载key exist_label=title
+2015-04-03 14:32:46.441 [main] DEBUG com.donglu.DatabaseConnector	-查询sql:select headImage from CardUser where identifier = '工号00003' ,传入参数:[]
+2015-04-03 14:32:46.722 [main] DEBUG com.donglu.DatabaseConnector	-查询sql:select '深圳市东陆高新实业有限公司' ,传入参数:[]
